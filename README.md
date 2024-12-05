@@ -1,4 +1,4 @@
-# 🚗 Motor Vehicle Crash Injuries by Borough in NYC
+# Motor Vehicle Crash Injuries by Borough in NYC
 
 ## Overview
 This project presents a data visualization of **motor vehicle crash injuries in New York City**. It specifically focuses on the number of injuries per borough, segmented by the type of road user affected: **cyclists**, **motorists**, and **total persons** injured.
@@ -6,7 +6,7 @@ This project presents a data visualization of **motor vehicle crash injuries in 
 The visualization aims to provide insights into how different boroughs fare in terms of road safety, highlighting injury trends for different types of road users.
 
 ## Dataset Details
-The dataset used in this project is titled **Motor-Vehicle-Crashes.csv** and contains detailed information on motor vehicle crashes in New York City, including the date, location, and the number of injuries and fatalities.
+The dataset used in this project is titled **Motor-Vehicle-Crashes.csv** and contains detailed information on motor vehicle crashes in New York City, including the date, location, and number of injuries and fatalities.
 
 - **Source**: This dataset was sourced from the [NYC Open Data Portal](https://data.cityofnewyork.us/), providing a public database of various types of incidents and statistics throughout the city.
 - **Data Description**: The dataset contains information such as crash date, location, borough, injuries, fatalities, and contributing factors.
@@ -58,7 +58,7 @@ This visualization draws inspiration from:
 - **Edward Tufte**: Tufte's emphasis on clarity, simplicity, and minimizing the "chartjunk" inspired the decision to focus on essential data while keeping the visual design minimal and effective.
 
 ### Screenshots and Visual References
-**[Include a screenshot here]**  
+![Visual](Screenshot.png)  
 A screenshot of the grouped bar chart, showing borough-wise injuries across NYC, helps convey the impact of the visualization.
 
 ## Insights and Interpretation
